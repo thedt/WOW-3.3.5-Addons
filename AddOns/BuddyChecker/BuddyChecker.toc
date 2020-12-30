@@ -1,0 +1,6 @@
+## Interface: 50001
+## Title: Buddy Checker
+## Author: The DT
+## Version: 1.L85a20n21k14
+## Notes: Allows for automated quest sharing and auto debugging of quests on the truewow.org server.
+main.lua

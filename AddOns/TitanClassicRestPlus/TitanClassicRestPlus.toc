@@ -1,0 +1,11 @@
+## Interface: 11302
+## Title: Titan Panel Classic [|cffeda55fRest+|r] |cff00aa001.0.0.0|r
+## Notes: Keeps track of the RestXP amounts and status for all of your characters. Is it updated to run on Classic
+## Author: Current - Yunohu
+## DefaultState: Enabled
+## SavedVariables: RestPlus_Data, RestPlus_Settings, RestPlus_Colors
+## OptionalDeps:
+## Dependencies: TitanClassic
+## Version: 1.0.0.0
+## X-Child-Of: TitanClassic
+TitanClassicRestPlus.xml

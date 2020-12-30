@@ -1,0 +1,16 @@
+------------------------------------------------------------------------
+r65 | elsia | 2013-06-02 20:17:28 +0000 (Sun, 02 Jun 2013) | 1 line
+Changed paths:
+   A /tags/v5.3.0 release (from /trunk:64)
+
+Tagging as v5.3.0 release
+------------------------------------------------------------------------
+r64 | elsia | 2013-06-02 20:10:21 +0000 (Sun, 02 Jun 2013) | 3 lines
+Changed paths:
+   M /trunk/RecountThreat.toc
+   M /trunk/Threat_Mode.lua
+
+RecountThreat:
+- Removed debug printing
+- Bumped toc for 5.3
+------------------------------------------------------------------------

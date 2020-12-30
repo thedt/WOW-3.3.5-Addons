@@ -1,0 +1,7 @@
+## Interface: 50001
+## Title: AiL
+## Author: havoc74
+## Version: 0.9.3
+## X-eMail: havoc74@gmail.com
+## Notes: Adds Average iLevel To Tooltip. As of Patch 5.0.4, you may have to click on your target to get corrected results.
+AiL.lua

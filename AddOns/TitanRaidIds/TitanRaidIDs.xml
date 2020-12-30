@@ -1,0 +1,30 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\FrameXML\UI.xsd">
+ 	<Script file="date_tool.lua" /> 
+	<Script file="localization.lua"/>
+	<Script file="TitanRaidIDs.lua"/>	
+	<Frame parent="UIParent">
+		<Frames>
+			<Button name="TitanPanelRaidIDsButton" inherits="TitanPanelComboTemplate" frameStrata="FULLSCREEN" toplevel="true">
+				<Scripts>
+					<OnLoad>
+						TitanPanelRaidIDsButton_OnLoad(self);
+						TitanPanelButton_OnLoad(self);
+					</OnLoad>
+					<OnEvent>
+						TitanPanelRaidIDsButton_OnEvent(self, event, ...);
+					</OnEvent>
+					<OnEnter>
+						TitanPanelRaidIDsButton_OnEnter();
+						TitanPanelButton_OnEnter(self);
+					</OnEnter>
+					<OnClick>
+						TitanPanelRaidIDsButton_OnClick(self, button);
+						TitanPanelButton_OnClick(self, button);
+					</OnClick>
+				</Scripts>
+			</Button>
+		</Frames>
+	</Frame>
+</Ui>

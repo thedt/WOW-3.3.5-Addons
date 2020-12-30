@@ -1,0 +1,27 @@
+﻿## Interface: 50300
+## X-Min-Interface: 50000
+## Title: RecountThreat
+## Notes: A threat main view module for Recount
+## Author: Elsia
+## OptionalDeps: Ace3, Recount
+## X-Category: Combat
+## X-Embeds: Ace3
+## X-Curse-Packaged-Version: v5.3.0 release
+## X-Curse-Project-Name: RecountThreat
+## X-Curse-Project-ID: recountthreat
+## X-Curse-Repository-ID: wow/recountthreat/mainline
+
+#@no-lib-strip@
+embeds.xml
+#@end-no-lib-strip@
+
+locales\RecountThreat-enUS.lua
+locales\RecountThreat-ruRU.lua
+locales\RecountThreat-frFR.lua
+locales\RecountThreat-deDE.lua
+locales\RecountThreat-koKR.lua
+locales\RecountThreat-esES.lua
+locales\RecountThreat-zhTW.lua
+locales\RecountThreat-zhCN.lua
+
+Threat_mode.lua

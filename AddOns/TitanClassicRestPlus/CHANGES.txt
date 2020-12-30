@@ -1,0 +1,12 @@
+commit 7019512d569c5084567e308af9be7922ff342f87
+Author: Yunohu <kernighan@gmail.com>
+Date:   Fri Aug 30 17:49:44 2019 +0000
+
+    Add .pkgmeta file
+
+commit 3c44dada70ee30196100afc4124f4d4cb132aaa8
+Author: Yunohu <kernighan@gmail.com>
+Date:   Fri Aug 30 17:31:14 2019 +0000
+
+    Add TitanClassicRestPlus
+

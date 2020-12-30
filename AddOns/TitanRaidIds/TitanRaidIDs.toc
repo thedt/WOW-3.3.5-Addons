@@ -1,0 +1,11 @@
+## Interface: 40000
+## Title: Titan Panel [Raid-IDs]
+## Notes: Eine Liste über alle aktiven Raid- und Hero-IDs für das Titan Panel AddOn.
+## Author: Basster @ Kil'Jaeden [EU]
+## SavedVariables: TitanPanelRaidIDs_Storage
+## SavedVariablesPerCharacter:
+## OptionalDeps: 
+## Dependencies: Titan
+## DefaultState: enabled
+## Version: 2.4.71
+TitanRaidIDs.xml
